@@ -1,0 +1,1 @@
+Current Display Resolution in Pixels is : 1366 by 768
